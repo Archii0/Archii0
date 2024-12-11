@@ -12,3 +12,11 @@ Previously at Microsoft.
 Main programming languages - Python, C/C++ and bash.
 
 Interested in deep learning, HPC, embedded development and programming language design.
+
+## Future Ideas
+- Network simulator
+- Compiler
+- Operating system
+- Distributed file system
+- A programming language, using LLVM
+- Simple memory allocator
