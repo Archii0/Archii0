@@ -1,16 +1,14 @@
-## Hi there 👋
+## Archii0
+Computer science student at University of Warwick.
 
-<!--
-**Archii0/Archii0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously at Microsoft.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Nift - a minimal build system for quick starting projects (bash)
+- NV10 - an attempt at building a model of a GPU (C++)
+- VM - a 16 bit virtual machine/emulator (C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Main programming languages - Python, C/C++ and bash.
+
+Interested in deep learning, HPC, embedded development and programming language design.
