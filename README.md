@@ -4,6 +4,7 @@ Computer science student at University of Warwick.
 Previously at Microsoft.
 
 ## Currently Working On
+- Simple memory allocator (C)
 - Nift - a minimal build system for quick starting projects (bash)
 - NV10 - an attempt at building a model of a GPU (C++)
 - VM - a 16 bit virtual machine/emulator (C)
@@ -19,4 +20,3 @@ Interested in deep learning, HPC, embedded development and programming language 
 - Operating system
 - Distributed file system
 - A programming language, using LLVM
-- Simple memory allocator
