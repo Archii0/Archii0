@@ -4,10 +4,10 @@ Computer science student at University of Warwick.
 Previously at Microsoft.
 
 ## Currently Working On
-- Simple memory allocator (C)
-- Nift - a minimal build system for quick starting projects (bash)
-- NV10 - an attempt at building a model of a GPU (C++)
-- VM - a 16 bit virtual machine/emulator (C)
+- [Memory-Allocator](https://github.com/Archii0/memory-allocator) - memory allocation in C for learning purposes
+- [Nift](https://github.com/Archii0/nift) - a minimal build system for quick starting projects (bash)
+- [NV10](https://github.com/Archii0/NV10) - an attempt at building a model of a GPU (C++)
+- [VM](https://github.com/Archii0/VM) - a 16 bit virtual machine/emulator (C)
 
 ## Interests
 Main programming languages - Python, C/C++ and bash.
