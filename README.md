@@ -8,7 +8,7 @@ Previously at Microsoft.
 - [Nift](https://github.com/Archii0/nift) - a minimal build system for quick starting projects (bash)
 - [NV10](https://github.com/Archii0/NV10) - an attempt at building a model of a GPU (in progress) (C++)
 
-## Completed Projects
+## Some Completed Projects
 - [Memory-Allocator](https://github.com/Archii0/memory-allocator) - memory allocation library for learning purposes (C)
 - [printf](https://github.com/Archii0/printf) - recreated printf for fun (C)
 - [Sentiment-Trading](https://github.com/Archii0/sentiment-trading) - messed with social media data to build some portfolios (Python) 
