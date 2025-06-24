@@ -16,7 +16,7 @@ Interested in HPC, GPUs, hardware, embedded development and programming language
 
 ## Some Completed Projects
 - [Nift](https://github.com/Archii0/nift) - a minimal build system for quick starting projects (bash)
-- [Python-Renderer](https://github.com/Archii0/python-renderer) - puhsing python to render 3D models (python)
-- [RoadUNet](https://github.com/Archii0/RoadUNet) - ML project for segmenting images for driving conditions, presented at ICUR 2024 (python)
+- [Python-Renderer](https://github.com/Archii0/python-renderer) - pushing python to render 3D models (python)
+- [RoadUNet](https://github.com/Archii0/RoadUNet) - ML project for segmenting images of driving scenes, presented at ICUR 2024 (python)
 - [Memory-Allocator](https://github.com/Archii0/memory-allocator) - memory allocation library for learning purposes (C)
 - [Sentiment-Trading](https://github.com/Archii0/sentiment-trading) - messed with social media data to build some portfolios (Python) 
