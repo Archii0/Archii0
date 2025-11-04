@@ -1,10 +1,10 @@
 ## Archii0
 Computer science student at University of Warwick.
 
-Previously at Microsoft.
+Previously at Jump Trading and Microsoft.
 
 ## Interests
-Main programming languages - C/C++, Rust, bash and python if it will save a hostage.
+Main programming languages - C/C++, Rust, bash and python.
 
 Interested in HPC, GPUs, hardware, embedded development and programming language design.
 
