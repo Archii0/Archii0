@@ -1,17 +1,17 @@
 ## Archii0
 Computer science student at University of Warwick.
 
-Previously at Jump Trading and Microsoft.
+Previously at Jump Trading, Microsoft and competed internationally in the ISC SCC.
 
 ## Interests
 Main programming languages - C/C++, Rust, bash and python.
 
-Interested in HPC, GPUs, hardware, embedded development and programming language design.
+Interested in HPC, compilers, GPUs, hardware, embedded development and programming language design.
 
 ## Currently Working On
 - [xdb](https://github.com/Archii0/xdb) - experimental linux debugger (C++)
 - [OxideOS](https://github.com/Archii0/OxideOS) - small OS (Rust)
-- [NV10](https://github.com/Archii0/NV10) - an attempt at building a model of a GPU (C++)
+- [NVConcept](https://github.com/Archii0/NV10) - an attempt at building a model of a GPU (C++)
 - [Linux-Kernel-Module](https://github.com/Archii0/Linux-Kernel-Module) - a simple kernel module to monitor CPU resources (C)
 
 ## Some Completed Projects
