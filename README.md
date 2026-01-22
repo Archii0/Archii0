@@ -4,11 +4,19 @@ Computer science student at University of Warwick.
 Previously at Jump Trading, Microsoft and competed internationally in the ISC SCC.
 
 ## Interests
-Main programming languages - C/C++, Rust, bash and python.
+Main programming languages - C/C++, Python and Rust.
 
 Interested in HPC, compilers, GPUs, hardware, embedded development and programming language design.
 
 ## Currently Working On
+
+### Dissertation (xDSL, MLIR, OPS Compiler Project)
+
+- [stencil-lowering](https://github.com/Archii0/stencil-lowering) - experimenting with xDSL and MLIR IR lowering for CPUs and GPUs
+- [OPS-xDSL-MLIR](https://github.com/Archii0/OPS-xDSL-MLIR) - OPS fork implement code generation with xDSL and MLIR
+
+### Other Projects
+
 - [xdb](https://github.com/Archii0/xdb) - experimental linux debugger (C++)
 - [OxideOS](https://github.com/Archii0/OxideOS) - small OS (Rust)
 - [NVConcept](https://github.com/Archii0/NV10) - an attempt at building a model of a GPU (C++)
